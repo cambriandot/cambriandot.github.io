@@ -1,24 +1,17 @@
 ---
 layout: post
-title:  "Introducing Tale"
-author: "Chester"
+title:  "Blockchain, power structures and anarcho-syndicalism"
+author: "Cambrian dot"
 ---
 
-Tale is a minimal [Jekyll](https://jekyllrb.com/) theme curated for storytellers. It is designed and developed by [myself](https://github.com/chesterhow/) for a friend who writes short stories.
+Blockchain
 
-## Tale features
-- Compatible with GitHub Pages
-- Responsive design (looks just as good on mobile)
-- Syntax highlighting, with the help of Pygments
-- Markdown and HTML text formatting
-- Pagination of posts
+- Decentralization - Distributing power of the systems (like democracy - but can be modified to — number of votes you cast, depends on the value to the network)
+- Market networks (https://twitter.com/naval/status/877467629308395521?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E877467629308395521&ref_url=https%3A%2F%2Fmedium.com%2Fmedia%2Fcc7f44eb88d403ea00d86e389d612c7d%3FpostId%3Da5fd60ac5788)
+- Triple accounting (https://hackernoon.com/why-everyone-missed-the-most-important-invention-in-the-last-500-years-c90b0151c169)
+- Crypto-anonymity : silk route on bitcoin
 
-Head over to the [Example Content]({{ site.baseurl }}/2017-03-16/example-content) post for a showcase of Tale's text formatting features.
+Power structures:
 
-## Browser Support
-Tale works on most if not all modern browsers, including Chrome, Safari and Firefox 👍🏼
 
-## Download or Contribute
-Tale is publicly hosted on GitHub, so go ahead and download or fork it at the [GitHub repository](https://github.com/chesterhow/tale). If you spot any bugs or have any suggestions, feel free to create an issue or make a pull request.
-
-Thanks for checking out Tale!
+Anarcho-syndicalism
