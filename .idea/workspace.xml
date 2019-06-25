@@ -2,55 +2,56 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54c1e503-0a7a-4ea0-8c1e-3038afe25b7d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CODE_OF_CONDUCT.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CODE_OF_CONDUCT.md" beforeDir="false" afterPath="$PROJECT_DIR$/CODE_OF_CONDUCT.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GHOST.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Rakefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_data/authors.yml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_data/tags.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/analytics.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/navigation.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/home.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/analytics.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/analytics.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/navigation.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/navigation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/post.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_plugins/jekyll-autgenerator.rb" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_plugins/jekyll-capitalize-all.rb" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_plugins/jekyll-tagsgenerator.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-03-05-pagination-post.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-03-06-the-mystery-of-the-filler-post.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-03-07-the-case-of-the-missing-post.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-03-10-welcome-to-jekyll.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-03-16-example-content.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-03-29-introducing-tale.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/tale.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/tale/_base.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/tale/_catalogue.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/tale/_code.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/tale/_layout.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/tale/_pagination.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/tale/_post.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/tale/_syntax.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/tale/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-03-05-pagination-post.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017-03-05-pagination-post.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-03-06-the-mystery-of-the-filler-post.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017-03-06-the-mystery-of-the-filler-post.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-03-07-the-case-of-the-missing-post.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017-03-07-the-case-of-the-missing-post.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-03-10-welcome-to-jekyll.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017-03-10-welcome-to-jekyll.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-03-16-example-content.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017-03-16-example-content.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-03-29-introducing-tale.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017-03-29-introducing-tale.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/tale.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/tale.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/tale/_base.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/tale/_base.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/tale/_catalogue.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/tale/_catalogue.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/tale/_code.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/tale/_code.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/tale/_layout.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/tale/_layout.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/tale/_pagination.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/tale/_pagination.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/tale/_post.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/tale/_post.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/tale/_syntax.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/tale/_syntax.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/tale/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/tale/_variables.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/apple-touch-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/favicon-16x16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/favicon-32x32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/main.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/apple-touch-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/apple-touch-icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/favicon-16x16.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/favicon-16x16.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/favicon-32x32.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/favicon-32x32.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/main.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/atom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gulpfile.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/script.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tale.gemspec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tale.gemspec" beforeDir="false" afterPath="$PROJECT_DIR$/tale.gemspec" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -68,13 +69,19 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="md" value="2" />
+          <entry key="Gemfile" value="1" />
+          <entry key="gemspec" value="1" />
+          <entry key="ico" value="1" />
+          <entry key="lock" value="1" />
+          <entry key="md" value="3" />
           <entry key="yml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="2" />
+          <entry key="Image" value="1" />
+          <entry key="Markdown" value="3" />
+          <entry key="PLAIN_TEXT" value="3" />
           <entry key="YAML" value="1" />
         </counts>
       </usages-collector>
@@ -97,13 +104,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="178">
-              <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+            <state relative-caret-position="419">
+              <caret line="28" column="19" lean-forward="true" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -113,6 +120,40 @@
               <second_editor />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Gemfile">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/favicon.ico">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CODE_OF_CONDUCT.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Gemfile.lock">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-398">
+              <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tale.gemspec">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -131,6 +172,9 @@
     <findStrings>
       <find>.travis.y</find>
       <find>remote_</find>
+      <find>&gt;=</find>
+      <find>jekyll (&gt;=0)</find>
+      <find>jekyll</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -166,6 +210,16 @@
             <path>
               <item name="cambriandot.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="cambriandot.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cambriandot.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cambriandot.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cambriandot.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cambriandot.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_sass" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -247,13 +301,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -263,6 +310,37 @@
           <second_editor />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-398">
+          <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/favicon.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CODE_OF_CONDUCT.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="28" column="19" lean-forward="true" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tale.gemspec">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
