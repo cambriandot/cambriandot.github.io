@@ -1,6 +1,4 @@
 # frozen_string_literal: true
-gem "jekyll-remote-theme"
-gem "jekyll-paginate"
+gem "tale"
 source "https://rubygems.org"
-gemspec
-gem "jekyll", "~> 3.8"
+gem 'github-pages', group: :jekyll_plugin
